@@ -4,5 +4,5 @@ It is a command line interface of a messaging app created using concept of oops 
 - create account
 - login to your account
 - send messages to other users
-- receive messages from them
+- receive messages from other users
 - check the received messages
