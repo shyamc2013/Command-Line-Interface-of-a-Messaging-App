@@ -4,4 +4,4 @@ It is a command line interface of a messaging app created using concept of oops 
 - create account
 - login to your account
 - send and receive messages from other users
-- send and accept friend requests from other users
+- send, accept and reject friend requests from other users
